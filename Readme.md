@@ -23,7 +23,7 @@
 
 
 
-6. Find `TestMidi.exe` and click it. Windows warns you not to do that. I don't byte :)
+6. Find `TestMidi.exe` and click it. Windows warns you not to do that. Don't worry. I don't byte :)
 
    ![](2026-01-20-00-15-12-image.png)
    
@@ -36,6 +36,7 @@
    ![](2026-01-20-00-06-15-image.png)
 
     
+
 
 
 
